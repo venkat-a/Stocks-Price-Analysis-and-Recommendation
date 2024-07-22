@@ -83,7 +83,13 @@ The `generate_recommendations` function generates buy/sell/hold recommendations 
 
 ## Files
 
-- `Sberbank Rossii 2.ipynb`: Jupyter Notebook with the code for data preprocessing, model training, prediction, and recommendation generation.
+- `Sberbank Rossii.ipynb`:
+- 'Koc Holding.ipynb':
+- 'Medinet Nasr Housing.ipynb':
+- 'Minerva SABrazil.ipynb':
+- 'Cementos Argos.ipynb':
+- 'Impala Platinum.ipynb':
+- 'Dongkuk Steel.ipynb': Jupyter Notebook with the code for data preprocessing, model training, prediction, and recommendation generation.
 
 ## Installation
 
