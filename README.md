@@ -80,33 +80,6 @@ Each model is trained on the provided data and used to generate predictions for 
 The `generate_recommendations` function generates buy/sell/hold recommendations based on the predicted and actual stock prices. Recommendations are generated using the predictions from each of the models.
 
 
-
-## Files
-
-- `Sberbank Rossii.ipynb`:
-- 'Koc Holding.ipynb':
-- 'Medinet Nasr Housing.ipynb':
-- 'Minerva SABrazil.ipynb':
-- 'Cementos Argos.ipynb':
-- 'Impala Platinum.ipynb':
-- 'Dongkuk Steel.ipynb': Jupyter Notebook with the code for data preprocessing, model training, prediction, and recommendation generation.
-
-## Installation
-
-To run the notebook, you need to have Python installed along with the following libraries:
-
-- numpy
-- pandas
-- tensorflow
-- sklearn
-- fbprophet
-
-You can install the required libraries using pip:
-
-```bash
-pip install numpy pandas tensorflow scikit-learn fbprophet
-```
-
 ## Usage
 
 1. Clone this repository.
